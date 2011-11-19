@@ -3,7 +3,7 @@ package CGI::SpeedUp;
 use strict;
 use File::Spec;
 use vars qw( $VERSION $File_base $Control $Done $DEBUG );
-$VERSION = 0.1;
+$VERSION = 0.11;
 
 BEGIN
 {
@@ -99,7 +99,7 @@ None known.
 
 =head1 AUTHOR
 
-Strzelecki Łukasz <strzelec@rswsystems.com>
+Strzelecki Łukasz <lukasz@strzeleccy.eu>
 
 =head1 LICENCE AND COPYRIGHT
 

@@ -4,7 +4,7 @@ NAME
 SYNOPSIS
             # ONLY THIS
             use CGI::SpeedUp;
-        
+
 DESCRIPTION
     The CGI::SpeedUp module provides a simple way to speed up any CGI
     application by managing its STDOUT and STDERR. This module was tested in
@@ -24,7 +24,7 @@ BUGS AND LIMITATIONS
     None known.
 
 AUTHOR
-    Strzelecki Łukasz <strzelec@rswsystems.com>
+    Strzelecki Łukasz <lukasz@strzeleccy.eu>
 
 LICENCE AND COPYRIGHT
     This program is free software; you can redistribute it and/or modify it
